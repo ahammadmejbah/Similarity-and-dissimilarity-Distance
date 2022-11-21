@@ -1,5 +1,16 @@
-``` python
+<h1><b style="color:red;"> Types of Distance Metrics </b></h1>
 
+<ol>
+
+<li>Euclidean distance</li>
+<li>Manhattan distance</li>
+<li>Minkowski distance</li>
+<li>Cosine Similarity</li>
+<li>Jaccard Similarity</li>
+
+</ol>
+
+``` python
 
 from math import*
 from decimal import Decimal
