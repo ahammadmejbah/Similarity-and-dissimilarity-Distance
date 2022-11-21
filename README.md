@@ -1,3 +1,11 @@
+<h1><b><code> Similarity and dissimilarity </code></b></h1>
+
+
+
+
+
+
+
 <h1><b><code>Types of Distance Metrics </code></b></h1>
 
 <ol>
@@ -7,6 +15,11 @@
 <li>Minkowski distance</li>
 <li>Cosine Similarity</li>
 <li>Jaccard Similarity</li>
+<li>Pearson Correlation distance</li>
+<li>Spearman correlation</li>
+<li>Standardized Euclidian distance</li>
+<li>Chi-square distance</li>
+<li>Levenshtein distance</li>
 
 </ol>
 
