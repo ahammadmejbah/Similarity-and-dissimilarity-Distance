@@ -1,4 +1,4 @@
-<h1><b style="color:red;"> Types of Distance Metrics </b></h1>
+<h1><b><code>Types of Distance Metrics </code></b></h1>
 
 <ol>
 
